@@ -28,6 +28,7 @@ Courier Management to aplikacja przeznaczona do zarządzania procesami logistycz
 
 Skonfiguruj bazę danych:
    - Utwórz nową bazę danych MySQL.
+   - Wczytaj tabele i przykładowe dane z pliku.
    - Uzupełnij plik `app.config` danymi dostępowymi do bazy danych:
  ```xml
 <configuration>
